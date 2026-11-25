@@ -39,7 +39,7 @@ The render shows a **three-storey corner building**:
 - A yellow-lit entrance lobby.
 
 Things to flag:
-- The sketch labels both the right-hand list and the plan as "1er planta". The right-hand list reads as the ground floor program.
+- The sketch draws only the first (ground) floor plan. The lists below it give the uses of floors 1, 2 and 3, so floors 2 and 3 have no drawn layout and must be estimated.
 - The survey shows the lot as an irregular quadrilateral with a street-side gate, but the render shows a corner building with a different massing. We need to confirm which footprint the building actually occupies (see section 10).
 
 ## 3. Hosting and access (decided: GitHub Pages)

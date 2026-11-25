@@ -24,7 +24,7 @@ Estado al cierre de la sesión de planeación (2026-11-25):
 | Bloque de servicio | 5.59 x 3.2 m en una esquina (de la captura del predio) |
 | Distribución | Del croquis, escalada a la huella (el croquis es esquemático) |
 
-Nota: el croquis llama "1er planta" tanto al plano como a la lista de la derecha. Se interpreta como planta baja. Los niveles superiores (pisos 2 y 3 del croquis) son F01 y F02 aquí.
+Aclarado por el usuario: el dibujo del croquis es la **1er planta** (planta baja, F00). Debajo del dibujo están las listas de usos: "1er planta" (resumen de lo mismo), "2da planta" (= F01) y "3er planta" (= F02). Solo la planta baja tiene plano dibujado; F01 y F02 tienen únicamente lista de usos, así que sus distribuciones se estiman.
 
 ## Contrato de capas (el visor depende de estos nombres)
 - Pisos: `F00_Ground`, `F01_Level1`, `F02_Level2`, `ROOF`. Sub-capas por material: `F00_Glass`, `F00_Panel`, etc.
