@@ -9,6 +9,7 @@
 reference/
 *.3dm
 *.3dmbak
+*.glbbak
 *.rhl
 *.jpeg
 *.jpg

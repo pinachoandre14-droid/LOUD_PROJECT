@@ -1,0 +1,266 @@
+{
+  "up": "Y", 
+  "lights": [
+    {
+      "distance": 10.0, 
+      "floor": "F00", 
+      "color": "#ffc070", 
+      "intensity": 25.0, 
+      "id": "LT_F00_Cafe", 
+      "position": [
+        11.5, 
+        3.2000000000000002, 
+        -7.9000000000000004
+      ]
+    }, 
+    {
+      "distance": 6.0, 
+      "floor": "F00", 
+      "color": "#ffb060", 
+      "intensity": 12.0, 
+      "id": "LT_F00_Front", 
+      "position": [
+        7.5999999999999996, 
+        3.6000000000000001, 
+        -1.2000000000000000
+      ]
+    }, 
+    {
+      "distance": 16.0, 
+      "floor": "F00", 
+      "color": "#ffd7a0", 
+      "intensity": 40.0, 
+      "id": "LT_F00_Hall", 
+      "position": [
+        11.0, 
+        7.5999999999999996, 
+        -7.7999999999999998
+      ]
+    }, 
+    {
+      "distance": 8.0, 
+      "floor": "F00", 
+      "color": "#ffcf4a", 
+      "intensity": 18.0, 
+      "id": "LT_F00_Lobby", 
+      "position": [
+        19.5, 
+        3.6000000000000001, 
+        -3.0
+      ]
+    }, 
+    {
+      "distance": 9.0, 
+      "floor": "F00", 
+      "color": "#ffb35c", 
+      "intensity": 30.0, 
+      "id": "LT_F00_Stage", 
+      "position": [
+        4.0, 
+        3.2999999999999998, 
+        -16.5
+      ]
+    }, 
+    {
+      "distance": 7.0, 
+      "floor": "F00", 
+      "color": "#ffd59a", 
+      "intensity": 10.0, 
+      "id": "LT_F00_Store", 
+      "position": [
+        16.199999999999999, 
+        3.6000000000000001, 
+        -17.5
+      ]
+    }, 
+    {
+      "distance": 9.0, 
+      "floor": "F01", 
+      "color": "#ffbf80", 
+      "intensity": 14.0, 
+      "id": "LT_F01_Break", 
+      "position": [
+        3.2000000000000002, 
+        7.7000000000000002, 
+        -7.5
+      ]
+    }, 
+    {
+      "distance": 8.0, 
+      "floor": "F01", 
+      "color": "#f4f6ff", 
+      "intensity": 14.0, 
+      "id": "LT_F01_Photo", 
+      "position": [
+        5.0, 
+        7.7999999999999998, 
+        -17.5
+      ]
+    }, 
+    {
+      "distance": 8.0, 
+      "floor": "F01", 
+      "color": "#ffc890", 
+      "intensity": 14.0, 
+      "id": "LT_F01_Podcast", 
+      "position": [
+        20.0, 
+        7.7000000000000002, 
+        -3.0
+      ]
+    }, 
+    {
+      "distance": 8.0, 
+      "floor": "F02", 
+      "color": "#ffc890", 
+      "intensity": 14.0, 
+      "id": "LT_F02_Drums", 
+      "position": [
+        19.399999999999999, 
+        11.699999999999999, 
+        -3.0
+      ]
+    }, 
+    {
+      "distance": 9.0, 
+      "floor": "F02", 
+      "color": "#ffbf80", 
+      "intensity": 14.0, 
+      "id": "LT_F02_Lounge", 
+      "position": [
+        3.0, 
+        11.699999999999999, 
+        -7.5
+      ]
+    }, 
+    {
+      "distance": 8.0, 
+      "floor": "F02", 
+      "color": "#ffb070", 
+      "intensity": 12.0, 
+      "id": "LT_F02_Recording", 
+      "position": [
+        9.5, 
+        11.699999999999999, 
+        -6.0
+      ]
+    }
+  ], 
+  "hotspots": [
+    {
+      "floor": "F01", 
+      "id": "HS_Break", 
+      "position": [
+        3.2000000000000002, 
+        6.0, 
+        -7.0
+      ]
+    }, 
+    {
+      "floor": "F00", 
+      "id": "HS_Cafe", 
+      "position": [
+        11.5, 
+        1.6000000000000001, 
+        -7.5
+      ]
+    }, 
+    {
+      "floor": "F02", 
+      "id": "HS_Drums", 
+      "position": [
+        19.5, 
+        10.0, 
+        -3.0
+      ]
+    }, 
+    {
+      "floor": "EXT", 
+      "id": "HS_Entrance", 
+      "position": [
+        20.0, 
+        1.6000000000000001, 
+        1.0
+      ]
+    }, 
+    {
+      "floor": "EXT", 
+      "id": "HS_FacadeWall", 
+      "position": [
+        10.5, 
+        11.0, 
+        0.59999999999999998
+      ]
+    }, 
+    {
+      "floor": "EXT", 
+      "id": "HS_GoldScreen", 
+      "position": [
+        7.5, 
+        2.0, 
+        0.59999999999999998
+      ]
+    }, 
+    {
+      "floor": "F00", 
+      "id": "HS_MusicStore", 
+      "position": [
+        16.0, 
+        1.6000000000000001, 
+        -17.5
+      ]
+    }, 
+    {
+      "floor": "F01", 
+      "id": "HS_Photo", 
+      "position": [
+        5.0, 
+        6.0, 
+        -17.5
+      ]
+    }, 
+    {
+      "floor": "F01", 
+      "id": "HS_Podcast", 
+      "position": [
+        20.0, 
+        6.0, 
+        -3.0
+      ]
+    }, 
+    {
+      "floor": "F02", 
+      "id": "HS_Recording", 
+      "position": [
+        9.0, 
+        10.0, 
+        -6.0
+      ]
+    }, 
+    {
+      "floor": "F00", 
+      "id": "HS_Stage", 
+      "position": [
+        4.0, 
+        1.8000000000000000, 
+        -17.399999999999999
+      ]
+    }, 
+    {
+      "floor": "F01", 
+      "id": "HS_Terrace", 
+      "position": [
+        5.0, 
+        6.0, 
+        -0.80000000000000004
+      ]
+    }
+  ], 
+  "units": "m", 
+  "levels": {
+    "F00": 0.0, 
+    "ROOF": 12.5, 
+    "F01": 4.5, 
+    "F02": 8.5
+  }
+}
